@@ -1,0 +1,1 @@
+# Ship-Resistance-calculation-by-Holtrop-Mennen-Method-using-Python-Script
